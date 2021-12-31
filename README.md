@@ -12,18 +12,26 @@ The filters for the website work as demonstrated below:
 
 * Date
 
-![Date]()
+![Date](https://github.com/Itgotworse26/UFOs/blob/main/static/images/Date_Search.PNG)
+
 
 * City
 
-![City]()
+![City](https://github.com/Itgotworse26/UFOs/blob/main/static/images/City_Search.PNG)
+
+* State 
+
+![City](https://github.com/Itgotworse26/UFOs/blob/main/static/images/State_Search.PNG)
+
 
 * Country
 
-![Country]()
+![Country](https://github.com/Itgotworse26/UFOs/blob/main/static/images/Country_Search.PNG)
+
 
 * Shape
 
-![Shape]()
+![Shape](https://github.com/Itgotworse26/UFOs/blob/main/static/images/Shape_Search.PNG)
+
 
 ## Summary
