@@ -5,12 +5,14 @@ const tableData = data;
 var tbody = d3.select("tbody");
 
 function buildTable(data) {
+  
   // First, clear out any existing data
   tbody.html("");
 
   // Next, loop through each object in the data
   // and append a row and cells for each value in the row
   data.forEach((dataRow) => {
+
     // Append a row to the table body
     let row = tbody.append("tr");
 
@@ -37,7 +39,6 @@ function updateFilters() {
 
     // 4c. Save the id of the filter that was changed as a variable.
     let filterId = changedElement.attr("id");
-
   
     // 5. If a filter value was entered then add that filterId and value
     // to the filters list. Otherwise, clear that filter from the filters object.
@@ -66,6 +67,7 @@ function updateFilters() {
 
     for (var i = 0; i < filterIds.length; i++) {
         if (filters[filterIds[i]]) {
+
             // Apply `filter` to the table data to only keep the
             // rows where the `filterIds[i]` value matches the filter value
             let rowId = filterIds[i];
