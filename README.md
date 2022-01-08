@@ -8,7 +8,7 @@ Dana’s webpage and dynamic table are working as intended, but she’d like to 
 The webpage for UFO Sightings might be functional, but there are too many datapoints for the average netizen to scroll through. As a result, Dana asked to have a filter that can search for date, city, state, country, and the shape of the Unidentified Flying Object. The purpose of this project is to build the specified filter and to demonstrate that it is functional. 
 
 ## Link
-In order to access the site, please use this [URL](https://itgotworse26.github.io/UFOs//).
+In order to access the site, please use this [URL](https://itgotworse26.github.io/UFOs/).
 
 ## Results
 The filters for the website work as demonstrated below:
